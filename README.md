@@ -1,6 +1,6 @@
-# Rest Api Questões Edukas
+# Rest Api Questões
 
-Repositório das aplicações relacionados ao "Banco de Questões" do Edukas.
+Repositório das aplicações relacionados ao "Banco de Questões".
 
 -------------------------------------------------------------------------------
 
